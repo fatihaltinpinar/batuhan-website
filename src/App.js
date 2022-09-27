@@ -1,7 +1,7 @@
 import React from "react";
 import { ReactComponent as IconGithub } from "./assets/icons/github.svg";
 import "./App.css";
-import construction from './assets/construction.png';
+import construction from "./assets/construction.png";
 
 class App extends React.Component {
   render = () => {
