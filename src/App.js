@@ -36,7 +36,7 @@ class App extends React.Component {
               <div className="cta"> Visit my GitHub</div>
             </a>
           </div>
-          <img className="worker" src={construction} alt="bunu koymaman ayip" />
+          <img className="worker" src={construction} alt="Construction worker" />
         </div>
         <div className="footer">
           <span>
