@@ -1,7 +1,7 @@
 {
   "short_name": "Portfolio",
   "name": "Portfolio Under Construction",
-  "start_url": "/batuhan-website/",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
