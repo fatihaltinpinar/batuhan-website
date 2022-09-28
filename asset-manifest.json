@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/batuhan-website/static/css/main.354bec30.css",
-    "main.js": "/batuhan-website/static/js/main.6e3b8eff.js",
-    "static/media/IBMPlexSans-MediumItalic.ttf": "/batuhan-website/static/media/IBMPlexSans-MediumItalic.b5d2aae060bd17a44e92.ttf",
-    "static/media/IBMPlexSans-BoldItalic.ttf": "/batuhan-website/static/media/IBMPlexSans-BoldItalic.2154ceb10b0ff9a38ed6.ttf",
-    "static/media/IBMPlexSans-Italic.ttf": "/batuhan-website/static/media/IBMPlexSans-Italic.3c841fd3d99ee585c6cd.ttf",
-    "static/media/IBMPlexSans-Medium.ttf": "/batuhan-website/static/media/IBMPlexSans-Medium.e1777542474b207f1248.ttf",
-    "static/media/IBMPlexSans-Regular.ttf": "/batuhan-website/static/media/IBMPlexSans-Regular.0519459d8ed646e0f90d.ttf",
-    "static/media/IBMPlexSans-Bold.ttf": "/batuhan-website/static/media/IBMPlexSans-Bold.c6aebfe2ea10a16d4a22.ttf",
-    "static/media/construction.png": "/batuhan-website/static/media/construction.46aac1ec2b42b9e66c69.png",
-    "static/media/github.svg": "/batuhan-website/static/media/github.07abef4ed2f7c8801873062976a766ca.svg",
-    "index.html": "/batuhan-website/index.html",
-    "main.354bec30.css.map": "/batuhan-website/static/css/main.354bec30.css.map",
-    "main.6e3b8eff.js.map": "/batuhan-website/static/js/main.6e3b8eff.js.map"
+    "main.css": "/static/css/main.543b1771.css",
+    "main.js": "/static/js/main.247e763e.js",
+    "static/media/IBMPlexSans-MediumItalic.ttf": "/static/media/IBMPlexSans-MediumItalic.b5d2aae060bd17a44e92.ttf",
+    "static/media/IBMPlexSans-BoldItalic.ttf": "/static/media/IBMPlexSans-BoldItalic.2154ceb10b0ff9a38ed6.ttf",
+    "static/media/IBMPlexSans-Italic.ttf": "/static/media/IBMPlexSans-Italic.3c841fd3d99ee585c6cd.ttf",
+    "static/media/IBMPlexSans-Medium.ttf": "/static/media/IBMPlexSans-Medium.e1777542474b207f1248.ttf",
+    "static/media/IBMPlexSans-Regular.ttf": "/static/media/IBMPlexSans-Regular.0519459d8ed646e0f90d.ttf",
+    "static/media/IBMPlexSans-Bold.ttf": "/static/media/IBMPlexSans-Bold.c6aebfe2ea10a16d4a22.ttf",
+    "static/media/construction.png": "/static/media/construction.46aac1ec2b42b9e66c69.png",
+    "static/media/github.svg": "/static/media/github.07abef4ed2f7c8801873062976a766ca.svg",
+    "index.html": "/index.html",
+    "main.543b1771.css.map": "/static/css/main.543b1771.css.map",
+    "main.247e763e.js.map": "/static/js/main.247e763e.js.map"
   },
   "entrypoints": [
-    "static/css/main.354bec30.css",
-    "static/js/main.6e3b8eff.js"
+    "static/css/main.543b1771.css",
+    "static/js/main.247e763e.js"
   ]
 }
